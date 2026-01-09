@@ -1,4 +1,4 @@
-# GeoSentinel ✅
+# GeoSentinel 
 
 **A mine-safety and geotechnical monitoring platform** combining a FastAPI backend (ML models, video/frame analysis, chatbot) with a Vite + React frontend.
 
